@@ -1,6 +1,6 @@
 // Program to calculate the sum,mean and standard deviation of elements in an array using pointer
 /* Author: Preetam Hegde
-   Date:05/05/2021
+   Date:05/03/2021
 */
 #include <stdio.h>
 #include <stdlib.h>
